@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual env
+venv/
+env/
+ENV/
+.venv/
+
+# Django stuff
+*.log
+*.pot
+*.pyc
+db.sqlite3
+media/
+staticfiles/
+
+# VS Code / PyCharm
+.vscode/
+.idea/
+
+# MySQL dump files
+*.sql
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Env variables / secrets
+.env
+*.env
+
+# Compiled files
+*.so
+
+# Coverage / testing
+.coverage
+htmlcov/
+*.cover
+
+# Cache
+.cache/
+pytest_cache/
